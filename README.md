@@ -1,8 +1,10 @@
-# Flower-Identifier 💮
+# Flower-Identifier 🌻
+
+## What I learnt 
 
 ## Features 
-- should be able to use AI to identify the type of flower when given a set of pictures.
-- as well as just what isnt what are flowers.
+- able to use AI to identify the flowers when given a set of pictures.
+- able to explain what type of flower the image is.
 
 ## Tech Stack 
 java programming 
