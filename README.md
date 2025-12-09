@@ -1,4 +1,5 @@
 # Flower-Identifier 🌻
+this project speaks for itself, Its able to identify flowers for a series of images through machine learning aspects.
 
 ## What I learnt 
 
