@@ -1,6 +1,8 @@
 # Image-Identifier 🖼️
 this project speaks for itself, It is able to process images and identify /predict what the image is.
 
+<img src="https://github.com/Nianca-Chetty103/Image-Identifier/blob/main/Screenshot%202025-12-11%20191648.png" width="200">
+
 ## What I learnt 
 - what is tensorflow as well as how to implement it in a project
 - code the program so that it learns according to datasets including making sure that it rightly identifying objects.
