@@ -1,17 +1,22 @@
-# Flower-Identifier 🌻
-this project speaks for itself, Its able to identify flowers for a series of images through machine learning aspects.
+# Image-Identifier 🌻
+this project speaks for itself, It is able to process images and identify /predict what the image is.
 
 ## What I learnt 
-- learned how to create a virtual environment on Vscode
-- using the several cmd commands in order to untangle files
-- absolute and relative paths
-- dependency resolution
+- what is tensorflow as well as how to implement it in a project
+- code the program so that it learns according to datasets including making sure that it rightly identifying objects.
+- machine learning aspects to the system.
+- deep learning and neural network development.
+- data handling
 
 ## How does it help the community
+- helps the system identify misleading information when it comes to fake news.
+- helps with accessibility where explainations using image descriptions come in, makes it easier for users.
+- improves research quality.
 
 ## Features 
-- able to use AI to identify the flowers when given a set of pictures.
-- able to explain what type of flower the image is.
+- able to select images
+- able to capture images using the camera of your device
+- once the image has been selected / captured then its able to predict what the image is 
 
 ## Tech Stack 
-python programming 
+java programming 
